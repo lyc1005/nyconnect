@@ -1,0 +1,45 @@
+Truth in Broadband: Access and Connectivity in NYC
+URL: https://tech.cityofnewyork.us/projects/truth-in-broadband/
+
+Principles: Equity, Performance, Affordability, Privacy, & Choice
+
+Data Sources:
+1. American Community Survey
+2. US Census
+3. FCC From 477 (self reported by companies)
+
+Broadband: FCC says it's speed >25 megabits/sec for download, and upload >3 Mbps. Standard may go up in the future depending on FCC or NYC Govt
+
+* FCC Form 477 has max advertized upload/download speeds and the infrastructure used
+* * Not used to assess Broadband adoption, not geo granular enough, data gaps, price not reported
+* ACS is used to assess broadband adoption
+* * But ACS defines broadband differently, so it's used for equity measurement not performance
+
+Equity: 
+
+In NYC, 31% have no broadband subscription, 56% of lowest-income (<20k) don't have broadband
+Highest Income (>$130K) only ~10% don't have broadband subscription (ACS 2016)
+Elderly (65+) are 1.5x more likely not to have broadband
+Black/Hispanic, less educated, unemployed people usually have lower rates of having broadband subscription
+There's a correlation between a subscription and having an electronic device
+
+Performance: 
+
+Idea is that quality/availability should increase with time
+Nearly all Census Blocks with 1 25 MBPS (download) service option available (2016)
+Nearly half (44%) of biz with access to 1 Gbps speed (download). Driver of fiber cost is distance to provider's already available fiber
+
+Affordability:
+
+Cost should not be an impediment to accessibility.
+
+Privacy:
+
+...
+
+Choice:
+
+Limited by reporting done on the census block level. 
+69% of households with <=2 providers
+72% of small businesses with only 1/2 broadband provider choice
+14% no choice for fiber provider 
