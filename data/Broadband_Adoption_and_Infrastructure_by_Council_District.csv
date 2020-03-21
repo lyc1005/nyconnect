@@ -1,0 +1,52 @@
+﻿OID,Council District,Home Broadband Adoption (Percentage of  Households),Mobile Broadband Adoption (Percentage of Households),No Internet Access (Percentage of Households),No Home Broadband Adoption (Percentage of  Households),No Mobile Broadband Adoption (Percentage of Households),No Home Broadband Adoption by Quartile,No Mobile Broadband Adoption by Quartile,Commercial Fiber Max ISP Choice,Public Computer Center Count,Workstations in PCCs,Avg training hrs per week in PCCs,Public Wi-Fi Count,Poles Reserved by Mobile Telecom Franchisee,Pole with Equipment Installed by Mobile Telecom Franchise,Density of Poles Reserved and with Equipment Installed for Mobile Telecom Franchise
+0,1,0.73,0.75,0.18,0.27,0.25,Medium High Connected,High Connected,14,13,345,92.89999999999989,174,27,389,147.15
+1,2,0.74,0.77,0.14,0.26,0.23,Medium High Connected,High Connected,10,12,258,58.8,203,18,219,139.11
+2,3,0.83,0.83,0.08,0.17,0.17,High Connected,High Connected,12,11,247,93.6999999999999,298,66,334,135.23
+3,4,0.83,0.82,0.09,0.17,0.18,High Connected,High Connected,0,11,754,117.30000000000001,275,62,368,170.04
+4,5,0.84,0.83,0.08,0.16,0.17,High Connected,High Connected,0,7,136,32.5,68,10,118,95.9
+5,6,0.82,0.81,0.09,0.18,0.19,High Connected,High Connected,7,10,363,40.3,172,56,226,94.04
+6,7,0.7,0.73,0.19,0.3,0.27,Medium High Connected,Medium High Connected,5,12,272,38.1,158,26,125,81.88
+7,8,0.58,0.65,0.3,0.42,0.35,Low Connected,Low Connected,5,17,368,47,123,80,120,54.24
+8,9,0.64,0.67,0.25,0.36,0.33,Low Connected,Low Connected,5,21,461,158.6,215,43,99,69.13
+9,10,0.65,0.7,0.21,0.35,0.3,Medium Low Connected,Medium Low Connected,4,10,272,45.300000000000004,54,24,52,28.9
+10,11,0.67,0.71,0.19,0.33,0.29,Medium Low Connected,Medium Low Connected,4,12,243,53.599999999999895,20,25,127,20.6
+11,12,0.66,0.68,0.21,0.34,0.32,Medium Low Connected,Medium Low Connected,3,11,241,58.5999999999999,15,18,105,24.86
+12,13,0.67,0.7,0.2,0.33,0.3,Medium Low Connected,Medium Low Connected,4,14,355,53.8,33,23,176,16.96
+13,14,0.6,0.7,0.25,0.4,0.3,Low Connected,Medium Low Connected,4,6,231,49.9,51,50,100,80.97
+14,15,0.58,0.7,0.26,0.42,0.3,Low Connected,Medium Low Connected,4,9,430,38.099999999999994,31,40,127,47.76
+15,16,0.58,0.66,0.27,0.42,0.34,Low Connected,Low Connected,4,13,257,56.499999999999986,23,46,101,70.86
+16,17,0.59,0.67,0.3,0.41,0.33,Low Connected,Low Connected,5,13,329,67.1999999999999,70,64,140,42.11
+17,18,0.66,0.68,0.23,0.34,0.32,Medium Low Connected,Medium Low Connected,4,10,263,99.39999999999999,4,26,108,35.11
+18,19,0.77,0.7,0.14,0.23,0.3,High Connected,Medium Low Connected,3,9,118,12.100000000000001,12,33,115,12.42
+19,20,0.63,0.63,0.24,0.37,0.37,Low Connected,Low Connected,5,9,250,63.399999999999906,23,29,93,23.93
+20,21,0.68,0.69,0.21,0.32,0.31,Medium Low Connected,Medium Low Connected,3,10,171,22.5,29,46,28,15.58
+21,22,0.77,0.76,0.15,0.23,0.24,High Connected,High Connected,3,4,83,12.4,51,45,26,13.75
+22,23,0.78,0.73,0.13,0.22,0.27,High Connected,Medium High Connected,3,10,130,29.5,20,47,32,7.21
+23,24,0.73,0.72,0.18,0.27,0.28,Medium High Connected,Medium High Connected,3,7,120,17.5,14,39,60,14.88
+24,25,0.74,0.73,0.19,0.26,0.27,Medium High Connected,Medium High Connected,3,6,158,8.7,52,35,24,25.88
+25,26,0.77,0.77,0.16,0.23,0.23,High Connected,High Connected,4,14,234,38.800000000000004,109,84,34,21.65
+26,27,0.64,0.73,0.19,0.36,0.27,Medium Low Connected,Medium High Connected,3,11,289,68.49999999999989,45,52,41,11.69
+27,28,0.68,0.74,0.19,0.32,0.26,Medium Low Connected,Medium High Connected,2,10,155,34.2,30,41,33,8.47
+28,29,0.76,0.72,0.15,0.24,0.28,High Connected,Medium High Connected,3,9,139,53,59,30,65,22.04
+29,30,0.75,0.73,0.17,0.25,0.27,Medium High Connected,Medium High Connected,3,7,104,14.200000000000001,17,39,33,7.91
+30,31,0.66,0.72,0.21,0.34,0.28,Medium Low Connected,Medium High Connected,3,12,306,89.5,16,37,32,4.41
+31,32,0.75,0.73,0.15,0.25,0.27,Medium High Connected,Medium High Connected,3,10,121,11.799999999999999,53,31,41,6.47
+32,33,0.71,0.74,0.2,0.29,0.26,Medium High Connected,High Connected,6,8,131,44.899999999999906,186,42,77,26.68
+33,34,0.66,0.74,0.22,0.34,0.26,Medium Low Connected,Medium High Connected,3,11,196,53.099999999999994,53,28,55,22.14
+34,35,0.73,0.74,0.18,0.27,0.26,Medium High Connected,High Connected,4,11,412,101.9,102,29,56,29.07
+35,36,0.62,0.71,0.26,0.38,0.29,Low Connected,Medium High Connected,4,16,259,96.80000000000001,46,19,50,25.24
+36,37,0.62,0.75,0.23,0.38,0.25,Low Connected,High Connected,3,5,88,29.599999999999998,32,16,45,17.3
+37,38,0.69,0.69,0.21,0.31,0.31,Medium Low Connected,Medium Low Connected,6,7,90,30.1,37,30,46,15.31
+38,39,0.78,0.77,0.14,0.22,0.23,High Connected,High Connected,4,8,145,31.9,63,29,61,21.54
+39,40,0.68,0.67,0.22,0.32,0.33,Medium Low Connected,Low Connected,4,6,127,18,41,16,35,22.68
+40,41,0.6,0.68,0.28,0.4,0.32,Low Connected,Medium Low Connected,3,13,229,72,14,22,52,26.4
+41,42,0.64,0.69,0.24,0.36,0.31,Medium Low Connected,Medium Low Connected,3,14,196,82.09999999999991,18,31,61,12.77
+42,43,0.75,0.72,0.16,0.25,0.28,Medium High Connected,Medium High Connected,3,9,134,31.099999999999998,24,27,33,11.39
+43,44,0.58,0.58,0.3,0.42,0.42,Low Connected,Low Connected,4,7,106,32.5,9,23,22,13.52
+44,45,0.71,0.68,0.19,0.29,0.32,Medium High Connected,Medium Low Connected,4,5,62,16,11,25,22,11.22
+45,46,0.76,0.7,0.16,0.24,0.3,Medium High Connected,Medium Low Connected,4,5,89,19.7,11,20,33,5.31
+46,47,0.67,0.64,0.23,0.33,0.36,Medium Low Connected,Low Connected,3,9,110,35.300000000000004,34,33,23,12.45
+47,48,0.7,0.6,0.21,0.3,0.4,Medium High Connected,Low Connected,3,9,213,62.699999999999996,20,28,49,18.49
+48,49,0.69,0.65,0.22,0.31,0.35,Medium High Connected,Low Connected,3,12,429,97.69999999999999,32,6,134,11.86
+49,50,0.77,0.7,0.16,0.23,0.3,High Connected,Medium Low Connected,5,8,176,27.1,59,3,157,6.98
+50,51,0.8,0.74,0.12,0.2,0.26,High Connected,Medium High Connected,3,5,106,16.3,9,2,189,8.12
