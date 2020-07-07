@@ -48,12 +48,11 @@ This repository is split into two main folders. `data` contains the datasets use
 * Demographics_KMeans.ipynb: KMeans Clustering of demographic and business-related datasets
 * FCC_Form_477_Provider_Analysis.ipynb: Analysis and processing of FCC 477 data
 * Infrastructural_Hotspot_Analysis.ipynb: 
-* NTA_level_regression.ipynb:
-* Price_Data_Visualization.ipynb:
-* Regression_Analysis.ipynb:
+* NTA_level_regression.ipynb: Regression analysis of broadband pricing and ISPs at geographical scale of NTAs 
+* Price_Data_Visualization.ipynb: Visualizing changes in broadband pricing over time
+* Regression_Analysis.ipynb: Regression analysis of broadband pricing and ISPs at geographical scale of Census Tracts
 * Reprojection.qgz: Reprojection of shapefiles to common projection using QGIS
 * Subscription_Autocorrelation_SpatReg.ipynb: Testing for Spatial Autocorrelation, (Local & Global) Moran's I, Spatial Regression of subscription and demographic data  
-* Subsidy_Analysis.ipynb: 
 * Twitter analysis.ipynb: Analysis of tweets scraped 
 * Twitter Scraper.ipynb: Twitter scraping tool
 * wifi_hotspots_analysis.ipynb: Analysis of wifi and hotspots in NYC

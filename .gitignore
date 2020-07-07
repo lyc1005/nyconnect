@@ -2,6 +2,7 @@
 ./*/.ipynb_checkpoints/
 .spyproject/
 .analysis/ALS_RecommenderSystems_ProviderDeployment.ipynb
-.progress_reports/
-.literature/
+.progress_report/
+.lit_review/
+.peripheral_analysis/
 
