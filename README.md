@@ -47,7 +47,6 @@ This repository is split into two main folders. `data` contains the datasets use
 * Broadband Data Analysis.ipynb: Exploratory Data Analysis of Internet Master Plan and FCC Form 477 2019
 * Demographics_KMeans.ipynb: KMeans Clustering of demographic and business-related datasets
 * FCC_Form_477_Provider_Analysis.ipynb: Analysis and processing of FCC 477 data
-* Infrastructural_Hotspot_Analysis.ipynb: 
 * NTA_level_regression.ipynb: Regression analysis of broadband pricing and ISPs at geographical scale of NTAs 
 * Price_Data_Visualization.ipynb: Visualizing changes in broadband pricing over time
 * Regression_Analysis.ipynb: Regression analysis of broadband pricing and ISPs at geographical scale of Census Tracts
